@@ -1,8 +1,9 @@
 This is a Web Application with Node.js, Express.js, and Database Integration
+
 Project Overview:
 This web application is designed to provide a secure and user-friendly platform for users to sign up and sign in, utilizing modern web technologies such as Node.js and Express.js, integrated with a database for persistent data storage.
-Key Features and Requirements are as follows...
 
+Key Features and Requirements are as follows...
 1. Use of POST Method for Sign-In and Sign-Up:
 All user authentication interactions, including sign-in and sign-up, are handled exclusively using the HTTP POST method.
 This approach ensures that sensitive user information, such as passwords, is securely transmitted in the request body, enhancing the security and reliability of data submission.
